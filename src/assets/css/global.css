@@ -1,0 +1,26 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-width: 1280px;
+}
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.el-cascader-panel {
+    height: 280px;
+}
+
+.el-cascader-menu__wrap {
+    margin-right: 0px !important;
+}
+
+.ql-container {
+    height: 300px !important;
+}
